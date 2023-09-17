@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mahi0101
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on front end development
+- 👀 I’m currently working on java development
+- 💞️ I’m looking to collaborate on Backend end development
 - 📫 How to reach me singhmahipath010@gmail.com
 
 <!---
